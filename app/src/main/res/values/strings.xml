@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">自动化记账本</string>
+    <string name="accessibility_service_description">用于自动读取微信和支付宝的支付信息，实现自动记账。不会读取任何其他应用或隐私数据。</string>
+</resources>
